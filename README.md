@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/73512374/179812663-83e176fd-6174-4eac-9fa0-b648bbded4d4.png)
 
 
-1. Github topics and trendings URL using html parser coz, webpage was in the html format.
+1. Parsed Github topics and trendings URL using html parser coz, webpage was in the html format.
 2. parsed data get converted into beautifulSoup format it provides ways of navigating, searching, and modifying the parse tree.
 3. after inspecting the webpage and going under the tags using findall() gives the us the data.
 4. extracted data get converted into dataFrame hence .csv file.
@@ -34,3 +34,15 @@ All methods are in detailed explained in the .ipynb file:)
 Finally, Winner YouTube Channel is 3Blue1Brown🎉🎉
 
 Reference: Youtube API working developers Platform https://developers.google.com/youtube/v3/docs 
+
+
+Tools Used:
+1. Google Cloud
+2. Google Colab.
+3. Json Formatter.
+
+Libraries Used
+1. BeautifulSoup
+2. googleapiclient
+3. Pandas
+4. Numpy
