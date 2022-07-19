@@ -10,11 +10,13 @@
 4. extracted data get converted into dataFrame hence .csv file.
 
 ### Best Data Science Channel on Youtube.
-1. created A Youtube API acess key for Youtube using google cloud
+In this Task using youtube api and best data science youtubers channel id's are collected about 10 best recommended channels are selected. After that googleapiclient method has a module built that scrapes the channel data into json format/Dictionary and then converted into DataFrame.did Data Visualization over the collecetd data.
+The best of best youtube channel is chosen as per the viewers, subscribers, likes, dislikes, no_of_videos uploaded, year of start etc...
+
+1. created A Youtube API acess key/developer key for Youtube using google cloud
 2. how to create that access api is as follows.
 * Create a project on API and services.
 ![image](https://user-images.githubusercontent.com/73512374/179802244-c7d34076-92fd-4c2c-8171-93418629f153.png)
-* next go to credentials and click on create Credentials. search for Youtube API V3 over the search box and click enable. the key will be generated
+* next go to credentials and click on create Credentials. search for Youtube API V3 over the search box and click enable. the developer key will be generated
 ![image](https://user-images.githubusercontent.com/73512374/179803617-12de0760-9c44-4ccd-ad29-6bf9b8bb9dea.png)
-
-
+* 
