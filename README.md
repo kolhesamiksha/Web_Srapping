@@ -7,7 +7,7 @@
 ![image](https://user-images.githubusercontent.com/73512374/179812663-83e176fd-6174-4eac-9fa0-b648bbded4d4.png)
 
 
-1. Parsed Github topics and trendings URL using html parser coz, webpage was in the html format.
+1. Parsed Github topics and trendings URL using html parser coz, webpage used to be in html.
 2. parsed data get converted into beautifulSoup format it provides ways of navigating, searching, and modifying the parse tree.
 3. after inspecting the webpage and going under the tags using findall() gives the us the data.
 4. extracted data get converted into dataFrame hence .csv file.
