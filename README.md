@@ -4,12 +4,19 @@
 
 ### Github Topics and trendings scraping using BeautifulSoup
 
+![image](https://user-images.githubusercontent.com/73512374/179812663-83e176fd-6174-4eac-9fa0-b648bbded4d4.png)
+
+
 1. Github topics and trendings URL using html parser coz, webpage was in the html format.
 2. parsed data get converted into beautifulSoup format it provides ways of navigating, searching, and modifying the parse tree.
 3. after inspecting the webpage and going under the tags using findall() gives the us the data.
 4. extracted data get converted into dataFrame hence .csv file.
 
 ### Best Data Science Channel on Youtube webscraping using Youtube API
+
+![image](https://user-images.githubusercontent.com/73512374/179812470-387b579b-d9cb-43c3-ab25-f2379c4859fa.png)
+
+
 In this Task using youtube api and best data science youtubers channel id's are collected & about 10 best recommended channels are selected. After that googleapiclient method has a module built that scrapes the channel data into json format/Dictionary and then converted into DataFrame.did Data Visualization over the collecetd data.
 The best of best youtube channel is chosen as per the viewers, subscribers, likes, dislikes, no_of_videos uploaded, year of start etc...
 
