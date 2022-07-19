@@ -9,8 +9,8 @@
 3. after inspecting the webpage and going under the tags using findall() gives the us the data.
 4. extracted data get converted into dataFrame hence .csv file.
 
-### Best Data Science Channel on Youtube.
-In this Task using youtube api and best data science youtubers channel id's are collected about 10 best recommended channels are selected. After that googleapiclient method has a module built that scrapes the channel data into json format/Dictionary and then converted into DataFrame.did Data Visualization over the collecetd data.
+### Best Data Science Channel on Youtube webscraping using Youtube API
+In this Task using youtube api and best data science youtubers channel id's are collected & about 10 best recommended channels are selected. After that googleapiclient method has a module built that scrapes the channel data into json format/Dictionary and then converted into DataFrame.did Data Visualization over the collecetd data.
 The best of best youtube channel is chosen as per the viewers, subscribers, likes, dislikes, no_of_videos uploaded, year of start etc...
 
 1. created A Youtube API acess key/developer key for Youtube using google cloud
@@ -19,4 +19,8 @@ The best of best youtube channel is chosen as per the viewers, subscribers, like
 ![image](https://user-images.githubusercontent.com/73512374/179802244-c7d34076-92fd-4c2c-8171-93418629f153.png)
 * next go to credentials and click on create Credentials. search for Youtube API V3 over the search box and click enable. the developer key will be generated
 ![image](https://user-images.githubusercontent.com/73512374/179803617-12de0760-9c44-4ccd-ad29-6bf9b8bb9dea.png)
-* 
+* Using that key youtube channel get parsed -> Scraped -> DataFrame.
+* Likewise Each Youtube Channel data get scraped over videos, playlists and channels.
+* Did data analysis by considering year of start, likes, viewers to each video, dislikes etc.
+
+Finally, Winner YouTube Channel is 3Blue1Brown🎉🎉
