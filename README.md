@@ -2,7 +2,7 @@
 
 What Is Webscraping:
 
-![image](https://user-images.githubusercontent.com/73512374/183890758-b2e7efd4-439e-4323-a1fa-ad0b1724b361.png)
+![image](https://user-images.githubusercontent.com/73512374/183890897-e35690ac-9aa6-4c52-b601-fbaac16b58e8.png)
 
 
 
