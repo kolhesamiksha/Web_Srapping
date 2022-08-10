@@ -10,11 +10,11 @@ However, when people refer to ‘web scrapers,’ they’re usually talking abou
 
 ![image](https://user-images.githubusercontent.com/73512374/179812663-83e176fd-6174-4eac-9fa0-b648bbded4d4.png)
 
-
-1. Parsed Github topics and trendings URL using html parser coz, webpage used to be in html.
-2. parsed data get converted into beautifulSoup format it provides ways of navigating, searching, and modifying the parse tree.
-3. after inspecting the webpage and going under the tags using findall() gives the us the data.
-4. extracted data get converted into dataFrame hence .csv file.
+In this POC project mostly focused on web navigation and learned how to extract the data from the web/URL's.
+1. Parsed Github topics and trendings URL using html parser.
+2. the Html page get parsed using beautifulSoup coz, It provides a set of well defined methods for extracting information contained within HTML tags in a website.
+3. after inspecting the webpage and going under the tags using findall() gave the informative data.
+4. After collecting topics and trendings data this get converted into .csv file so that data become analytics/industry ready.
 
 ### Best Data Science Channel on Youtube webscraping using Youtube API
 
