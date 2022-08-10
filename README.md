@@ -2,7 +2,8 @@
 
 What Is Webscraping:
 
-![image](https://user-images.githubusercontent.com/73512374/183890665-68972a41-6430-4042-aabd-1675600b2dfc.png)
+![image](https://user-images.githubusercontent.com/73512374/183890758-b2e7efd4-439e-4323-a1fa-ad0b1724b361.png)
+
 
 
 ### Github Topics and trendings scraping using BeautifulSoup
